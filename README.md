@@ -1,4 +1,4 @@
 # Evm-machine
-thid is my first project
+Thid is my First Project
 <br>
 Author-Saurabh kamble
